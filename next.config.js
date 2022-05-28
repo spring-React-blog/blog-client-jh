@@ -1,4 +1,4 @@
-export const nextConfig = {
+const nextConfig = {
   compress: true,
   images: {
     loader: "akamai",
